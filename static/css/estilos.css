@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: #040303;
+    color: white;
+    font-size: 0.9rem;
+
+}
+
+.masinfo {
+    text-decoration: none;
+    color: #a7a7a7;
+}
+
+.inciotexto {
+
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    text-align: center;
+}
+
+
+@media (min-width: 1100px) {
+
+    .alert {
+        text-align: center;
+        margin-left: 9%;
+        margin-right: 8%;
+    }
+}
